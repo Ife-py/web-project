@@ -1,0 +1,14 @@
+body {
+    justify-content: center;
+    height: 99vh;
+    margin: 0 20%;
+
+}
+
+body,
+header,
+table {
+    border: 1.5px solid #333;
+    border-collapse: collapse;
+}
+
