@@ -76,10 +76,15 @@
     width: 50%;
 }
 
-input,
-textarea {
+input{
     width: 100%;
     padding: 1rem;
+    background: var(--color-bg);
+    color: var(--color-white);
+}
+textarea{
+    padding: 1rem  ;
+    width: 100%;
     background: var(--color-bg);
     color: var(--color-white);
 }
