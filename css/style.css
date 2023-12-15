@@ -250,6 +250,7 @@ header {
 /* ===========POPULAR COURSES================= */
 .courses {
     margin-top: 10rem;
+    background: var(--color-bg);
 }
 
 .courses__container {
@@ -259,7 +260,7 @@ header {
 }
 
 .course {
-    background: var(--color-bg);
+    background: var(--color-bg2);
     text-align: center;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -466,7 +467,7 @@ footer ul li a:hover {
     .nav__menu li:nth-child(2) {
         animation-delay: 0.5s;
     }
-
+                                                                                                                                                    
     .nav__menu li:nth-child(3) {
         animation-delay: 1s;
     }
